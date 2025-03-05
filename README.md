@@ -1,1 +1,3 @@
 # mandelbrot
+
+Generator fraktali
